@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Hans\Desktop\Projeto-Estoque\.metadata\.plugins\org.eclipse.jdt.core
+2845484808.index
+312180970.index
+1865797976.index
